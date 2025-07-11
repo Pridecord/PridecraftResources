@@ -1,0 +1,42 @@
+{
+  "music.joy": {
+    "sounds": [
+      {
+        "name": "joy:music/menu/joy",
+        "stream": true
+      }
+    ]
+  },
+  "music.melancolie": {
+    "sounds": [
+      {
+        "name": "joy:music/game/melancolie",
+        "stream": true
+      }
+    ]
+  },
+  "music.douglas": {
+    "sounds": [
+      {
+        "name": "joy:music/game/douglas",
+        "stream": true
+      }
+    ]
+  },
+  "music.regina": {
+    "sounds": [
+      {
+        "name": "joy:music/game/regina",
+        "stream": true
+      }
+    ]
+  },
+  "music.reminiscence": {
+    "sounds": [
+      {
+        "name": "joy:music/game/creative/reminiscence",
+        "stream": true
+      }
+    ]
+  }
+}
