@@ -1,3 +1,4 @@
 {"providers": [
-{"type":"bitmap","file":"server:ranks/sysadmin.png","ascent":7,"height":8,"chars":["\uE001"]}
+{"type":"bitmap","file":"server:ranks/sysadmin.png","ascent":7,"height":8,"chars":["\uE001"]},
+{"type":"bitmap","file":"server:ranks/member.png","ascent":7,"height":8,"chars":["\uE002"]}
 ]}
